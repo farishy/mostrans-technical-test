@@ -1,0 +1,12 @@
+{
+    "extensions": {
+      "endpoints": {
+        "Rick and Morty Endpoint": {
+          "url": "https://rickandmortyapi.com/graphql",
+          "headers": {
+            "user-agent": "JS GraphQL"
+          }
+        }
+      }
+    }
+  }
