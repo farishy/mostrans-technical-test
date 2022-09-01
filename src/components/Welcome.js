@@ -9,7 +9,7 @@ const Welcome = () => {
           <div className="p-5">
             <div className="title">Rick and Morty World</div>
             <p className="text-light">Closer to all the characters</p>
-            <Link to="/characters">
+            <Link to="/mostrans-technical-test/characters">
               <Button variant="primary">Discover Now</Button>{" "}
             </Link>{" "}
           </div>

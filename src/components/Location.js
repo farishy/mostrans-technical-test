@@ -66,7 +66,7 @@ const Location = () => {
         <Row xs={1} md={3} xl={4} className="g-4 mt-3 mb-5">
           {char.map(({ id, name, status, image, species, location }) => (
             <Link
-              to="/character/details"
+              to="/mostrans-technical-test/character/details"
               style={{ textDecoration: "none", color: "black" }}
               state={{ idCharacter: id }}
             >

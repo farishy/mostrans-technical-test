@@ -63,7 +63,7 @@ const CharList = () => {
           {data.characters.results.map(
             ({ id, name, status, image, species }) => (
               <Link
-                to="/character/details"
+                to="/mostrans-technical-test/character/details"
                 style={{ textDecoration: "none", color: "black" }}
                 state={{ idCharacter: id }}
               >

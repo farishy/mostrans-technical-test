@@ -1,4 +1,4 @@
-import { Container, Navbar } from "react-bootstrap";
+import { Container, Navbar, Nav } from "react-bootstrap";
 import logo from "../assets/images/logo.png";
 import { Link } from "react-router-dom";
 
@@ -6,7 +6,7 @@ const NavigationBar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
       <Container>
-        <Link to="/" style={{ textDecoration: "none" }}>
+        <Link to="/mostrans-technical-test/" style={{ textDecoration: "none" }}>
           <Navbar.Brand>
             <img
               src={logo}
@@ -17,6 +17,11 @@ const NavigationBar = () => {
             />
             Mostrans Technical Test
           </Navbar.Brand>
+        </Link>
+        <Link to="/mostrans-technical-test/characters/location">
+          <Nav className="me-auto">
+            Character By Location
+          </Nav>
         </Link>
       </Container>
     </Navbar>

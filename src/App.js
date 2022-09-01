@@ -40,10 +40,10 @@ function App() {
       <NavigationBar />
       {/* <Welcome /> */}
       <Routes>
-        <Route path="/" element={<Welcome />} />
-        <Route path="/characters" element={<CharList />} />
-        <Route path="/character/details" element={<CharDetails />} />
-        <Route path="/characters/location" element={<Location />} />
+        <Route path="/mostrans-technical-test/" element={<Welcome />} />
+        <Route path="/mostrans-technical-test/characters" element={<CharList />} />
+        <Route path="/mostrans-technical-test/character/details" element={<CharDetails />} />
+        <Route path="/mostrans-technical-test/characters/location" element={<Location />} />
       </Routes>
       {/* <CharList />
       <CharDetails />
