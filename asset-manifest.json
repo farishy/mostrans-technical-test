@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mostrans-technical-test/static/css/main.3e8e9347.css",
-    "main.js": "/mostrans-technical-test/static/js/main.a93b90c3.js",
+    "main.js": "/mostrans-technical-test/static/js/main.52fd6388.js",
     "static/js/787.6d337f0f.chunk.js": "/mostrans-technical-test/static/js/787.6d337f0f.chunk.js",
     "static/media/logo.png": "/mostrans-technical-test/static/media/logo.ff215158a1e02b289a57.png",
     "static/media/wallpaper2.png": "/mostrans-technical-test/static/media/wallpaper2.0966d92d39435c44f14e.png",
     "index.html": "/mostrans-technical-test/index.html",
     "main.3e8e9347.css.map": "/mostrans-technical-test/static/css/main.3e8e9347.css.map",
-    "main.a93b90c3.js.map": "/mostrans-technical-test/static/js/main.a93b90c3.js.map",
+    "main.52fd6388.js.map": "/mostrans-technical-test/static/js/main.52fd6388.js.map",
     "787.6d337f0f.chunk.js.map": "/mostrans-technical-test/static/js/787.6d337f0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e8e9347.css",
-    "static/js/main.a93b90c3.js"
+    "static/js/main.52fd6388.js"
   ]
 }
